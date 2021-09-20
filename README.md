@@ -95,7 +95,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Python3](https://www.python.org/)
 * [ReactJS](https://reactjs.org/)
 * [Django](https://www.djangoproject.com/)
@@ -173,7 +172,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@ashumatai](https://www.linkedin.com/in/ashutoshmatai/) - mataiashu@gmail.com
+Ashutosh Matai - [@ashumatai](https://www.linkedin.com/in/ashutoshmatai/) - mataiashu@gmail.com
 
 Project Link: [https://github.com/ashumatai/melOD](https://github.com/ashumatai/melOD)
 
