@@ -82,16 +82,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+melOD aims to connect people via music. Simply host or join an existing room and share the room code with friends you want to invite. Note that the host of each room reserves the right to kick people out. Users are expected to maintain decorum and there is a strict ban on using foul languange or sharing pornography or content/links relating to pornography. Bullying, harrasment and hate speech will absolutely not be tolerated.
 
 ### Built With
 
@@ -104,12 +95,11 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Setup the Prerequisites and complete the installation steps in this guide. If you encounter an issue, use the Try-Search-Ask approach. Leave your queries in the [issues](https://github.com/ashumatai/melOD/issues) section of this repository if someone hasn't already left them.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Install the relevant versions of the following (if version is not mentioned, install the latest version):
 
 * python 3
   For Linux based OS:
