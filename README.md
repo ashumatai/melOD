@@ -110,6 +110,29 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
+* python 3
+  For Linux based OS:
+  ```sh
+  sudo apt-get install python
+  ```
+  
+  For Windows/macOS, get the setup at [Python.org](https://www.python.org/downloads/)
+
+* node js
+  For Linux based OS:
+  ```sh
+  sudo apt install nodejs
+  ```
+  
+  For Windows/macOS, get the setup at [NodeJS.org](https://nodejs.org/en/download/)
+  
+ * django
+  ```sh
+  pip install Django
+  pip install djangorestframework
+  ```
+  
 * npm
   ```sh
   npm install npm@latest -g
